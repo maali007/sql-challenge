@@ -32,3 +32,12 @@ FROM "EMPLOYEES"
 JOIN "DEPT_EMP" ON "EMPLOYEES".emp_no = "DEPT_EMP".emp_no
 JOIN "DEPARTMENTS" ON "DEPT_EMP".dept_no = "DEPARTMENTS".dept_no
 WHERE "DEPARTMENTS".dept_name = 'Sales';
+
+-- Q7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+SELECT * FROM "DEPARTMENTS";
+SELECT "EMPLOYEES".emp_no, "EMPLOYEES".last_name, "EMPLOYEES".first_name, "DEPARTMENTS".dept_name
+FROM "EMPLOYEES"
+JOIN "DEPT_EMP" ON "EMPLOYEES".emp_no = "DEPT_EMP".emp_no
+JOIN "DEPARTMENTS" ON "DEPT_EMP".dept_no = "DEPARTMENTS".dept_no
+WHERE "DEPARTMENTS".dept_name = 'Sales' or "DEPARTMENTS".dept_name = 'Development';
+
