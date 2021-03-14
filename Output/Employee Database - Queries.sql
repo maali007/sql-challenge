@@ -19,3 +19,8 @@ SELECT "EMPLOYEES".emp_no, "EMPLOYEES".last_name, "EMPLOYEES".first_name, "DEPAR
 FROM "EMPLOYEES"
 JOIN "DEPT_EMP" ON "EMPLOYEES".emp_no = "DEPT_EMP".emp_no
 JOIN "DEPARTMENTS" ON "DEPT_EMP".dept_no = "DEPARTMENTS".dept_no;
+
+-- Q5. List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+SELECT first_name, last_name, sex
+FROM "EMPLOYEES"
+WHERE first_name = 'Hercules' and last_name LIKE 'B%';
