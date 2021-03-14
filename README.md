@@ -58,3 +58,9 @@
 
 <img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q8%20-%20DATA%20OUTPUT.png">
 <img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q8%20-%20MESSAGES.png">
+
+<hr>
+
+<h1><em>DID NOT ATTEMPT THE BONUS ... THE WEATHER WOULDN'T ALLOW ME! HEY THERE SPRING!!!</em></h1>
+
+<hr>
