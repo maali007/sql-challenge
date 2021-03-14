@@ -61,9 +61,6 @@
 
 <hr>
 
-<h1><em>DID NOT ATTEMPT THE BONUS ... THE WEATHER WOULDN'T ALLOW ME! HEY, HEY, HEY THERE SPRING!</em></h1>
-
-![](https://i.gifer.com/1ujS.gif)
-
+<h1><em>DID NOT ATTEMPT THE BONUS ... THE WEATHER WOULDN'T ALLOW ME! HEY, HEY, HEY THERE SPRING! HOW YOU DOIN'?</em></h1>
 
 <hr>
