@@ -17,27 +17,44 @@
 
 <h3>PART III: DATA ANALYSIS</h3>
 
+<p>I ran the queries to answer the 8 questions asked. I've added screenshots of the query and results (data output views and query run messages).</p>
+
 <h4>Q1: List the following details of each employee: employee number, last name, first name, sex, and salary.</h4>
 
-<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q1%20-%20DATA%20OUTPUT.png.png">
-<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q1%20-%20DATA%MESSAGES.png.png">
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q1%20-%20DATA%20OUTPUT.png">
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q1%20-%20MESSAGES.png">
 
 <h4>Q2: List first name, last name, and hire date for employees who were hired in 1986.</h4>
 
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q2%20-%20DATA%20OUTPUT.png">
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q2%20-%20MESSAGES.png">
 
 <h4>Q3: List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.</h4>
 
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q3%20-%20DATA%20OUTPUT.png">
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q3%20-%20MESSAGES.png">
 
 <h4>Q4: List the department of each employee with the following information: employee number, last name, first name, and department name.</h4>
 
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q4%20-%20DATA%20OUTPUT.png">
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q4%20-%20MESSAGES.png">
 
 <h4>Q5: List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."</h4>
 
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q5%20-%20DATA%20OUTPUT.png">
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q5%20-%20MESSAGES.png">
 
 <h4>Q6: List all employees in the Sales department, including their employee number, last name, first name, and department name.</h4>
 
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q6%20-%20DATA%20OUTPUT.png">
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q6%20-%20MESSAGES.png">
 
 <h4>Q7: List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.</h4>
 
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q7%20-%20DATA%20OUTPUT.png">
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q7%20-%20MESSAGES.png">
 
 <h4>Q8: In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.</h4>
+
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q8%20-%20DATA%20OUTPUT.png">
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q8%20-%20MESSAGES.png">
