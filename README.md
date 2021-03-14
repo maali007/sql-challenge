@@ -17,7 +17,7 @@
 
 <h3>PART III: DATA ANALYSIS</h3>
 
-<p>I ran the queries to answer the 8 questions asked. I've added screenshots of the query and results (data output views and query run messages).</p>
+<p>I ran the queries to answer the 8 questions asked. I've added screenshots of the query and results (data output views and query run messages). The .sql file for these queries is <a href="https://github.com/maali007/sql-challenge/blob/main/Output/Employee%20Database%20-%20Queries.sql" target="_blank">Employee Database - Queries.sql</a></p>
 
 <h4>Q1: List the following details of each employee: employee number, last name, first name, sex, and salary.</h4>
 
