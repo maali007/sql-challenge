@@ -16,3 +16,26 @@
 <hr>
 
 <h3>PART III: DATA ANALYSIS</h3>
+
+<h4>Q1: List the following details of each employee: employee number, last name, first name, sex, and salary.</h4>
+
+
+<h4>Q2: List first name, last name, and hire date for employees who were hired in 1986.</h4>
+
+
+<h4>Q3: List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.</h4>
+
+
+<h4>Q4: List the department of each employee with the following information: employee number, last name, first name, and department name.</h4>
+
+
+<h4>Q5: List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."</h4>
+
+
+<h4>Q6: List all employees in the Sales department, including their employee number, last name, first name, and department name.</h4>
+
+
+<h4>Q7: List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.</h4>
+
+
+<h4>Q8: In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.</h4>
