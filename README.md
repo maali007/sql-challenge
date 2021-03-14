@@ -19,6 +19,8 @@
 
 <h4>Q1: List the following details of each employee: employee number, last name, first name, sex, and salary.</h4>
 
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q1%20-%20DATA%20OUTPUT.png.png">
+<img src="https://github.com/maali007/sql-challenge/blob/main/Resources/Query%20Data%20Outputs%20and%20Messages/Q1%20-%20DATA%MESSAGES.png.png">
 
 <h4>Q2: List first name, last name, and hire date for employees who were hired in 1986.</h4>
 
